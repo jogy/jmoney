@@ -27,7 +27,7 @@
     "intl": "1.2.5",
     "moment": "2.29.1",
     "ngx-uploader": "4.3.0",
-    "rxjs": "5.5.12",
+    "rxjs": "6.6.3",
     "zone.js": "0.8.18"
   },
   "devDependencies": {
